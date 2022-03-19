@@ -9,4 +9,4 @@
 
 + 강의 내용 : C언어
 
-<img src="https://ifh.cc/g/YbW3K5.jpg  width="20%" height="20%"/>
+<img src="https://ifh.cc/g/YbW3K5.jpg"  width="20%" height="20%"/>
