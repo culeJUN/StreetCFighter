@@ -10,5 +10,5 @@
 + 강의 내용 : C언어
 
 <p align="cneter">
-  <img src="https://ifh.cc/g/YbW3K5.jpg"  width="50%" height="50%"/>
+    <img src="https://ifh.cc/g/YbW3K5.jpg"  width="50%" height="50%"/>
 </p>
